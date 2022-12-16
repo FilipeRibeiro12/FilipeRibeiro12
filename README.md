@@ -1,5 +1,7 @@
-### Hi there 👋
-
+###  👋 Hi there 
+###  👀 I'm looking for a job in the developer field 
+###  👾 I'm currently learning and looking to learn more
+###  📨 How to reach me: r.filipesouza@gmail.com
 <!--
 **FilipeRibeiro12/FilipeRibeiro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
